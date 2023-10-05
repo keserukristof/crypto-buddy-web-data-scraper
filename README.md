@@ -13,6 +13,13 @@ This repository houses the code responsible for scraping cryptocurrency-related 
 - **Temporary Storage:** Safeguards scraped data temporarily pending its transfer to the backend server.
 - **Logging and Monitoring:** Incorporates a logging framework to systematically track activities, errors, and successes.
 
+## Target Websites
+
+The following websites are currently being scraped:
+- [CryptoNews] (https://cryptonews.net/)
+- [Bloomberg] (https://www.bloomberg.com/crypto)
+- [CNBC] https://www.cnbc.com/cryptoworld/
+
 ## Installation & Setup
 
 1. **Clone the Repository**:
