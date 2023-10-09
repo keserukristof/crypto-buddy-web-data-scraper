@@ -17,8 +17,8 @@ This repository houses the code responsible for scraping cryptocurrency-related 
 
 The following websites are currently being scraped:
 - [CryptoNews] (https://cryptonews.net/)
-- [Bloomberg] (https://www.bloomberg.com/crypto)
-- [CNBC] https://www.cnbc.com/cryptoworld/
+- [CryptoSlate](https://cryptoslate.com/top-news/)
+- [NewsBTC] (https://www.newsbtc.com/)
 
 ## Installation & Setup
 
